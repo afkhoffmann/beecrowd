@@ -10,3 +10,9 @@
 # Output
 # Calculate and print the distance value using the provided formula, with 4 digits after the decimal point.
 
+x1, y1 = map(float, input().split())
+x2, y2 = map(float, input().split())
+
+distance = ((x2-x1)**2 + (y2-y1)**2)**(1/2)
+
+print(f'{distance:.4f}')
