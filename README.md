@@ -1,2 +1,2 @@
-# URIOnlineJudge
-Problems solved in the URI project platform
+# beecrowd
+Problems solved in the beecrowd platform
